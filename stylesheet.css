@@ -1,0 +1,170 @@
+
+#navbarSupportedContent{
+    /* margin-left:30.5em; */
+    font-size: medium;
+    font-weight: bolder;
+    letter-spacing: 6;
+    font-family: adorn-icons!important;
+    
+}
+.brand{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.dropdown-item{
+    display: flex;
+}
+.picture{
+    margin-left: 50px;
+}
+.bi-bi-cart3{
+    margin-right: 80px;
+}
+.bi-bi-cart3:hover{
+    cursor: pointer;
+}
+.bi-bi-person:hover{
+    cursor: pointer;
+}
+.bi-bi-search:hover{
+    cursor:pointer;
+}
+.second{
+    height: 40px;
+    /* width: 100%; */
+    background-color: #f9f9f9;
+}
+.row{
+    width: 100%;
+}
+.second a{
+    margin-left: 60px;
+}
+.second-one{
+    text-decoration: none;
+    color:darkgray;
+    margin-right: 20px;
+    font-family: 'Playfair Display', ;
+    font-weight: bold;
+    font-size: 100%;
+}
+.form{
+    /* font-weight: bold; */
+    text-align: center;
+}
+.place{
+    height: 50px;
+    width: 600px;
+}
+.bottom-one{
+    height: 250px;
+    width: 100%;
+    background-color: #f9f9f9;
+}
+
+.bot{
+    text-align: left;
+    margin-left: 40px;
+    /* padding-bottom: 10px; */
+}
+.bote{
+  text-decoration: none; 
+  color: black; 
+}
+
+button{
+    height: 60px;
+    width: 150px;
+    border: black;
+}
+.emailn{
+    margin-left:150px;
+    margin-bottom: 1bi0px;
+
+
+}
+
+
+.email{
+    margin-left: 150px;
+    height: 40px;
+    width: 200px;
+    border-radius: 3px;
+}
+.emailw{
+    margin-left: 150px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: #f9f9f9;
+    height: 50px;
+    width: 150px;
+    border-radius:   5px;
+}
+.bottom-second{
+    height: 250px;
+    width: 400px;
+    margin-top: -140px;
+    margin-left: 1200px;
+    background-color: #f9f9f9;
+}
+
+.form{
+    width: 900px;
+    margin: 50px auto;
+}
+.col-3{
+    margin-left:20px ;
+    margin: 50px;
+    font-family:'Times New Roman', Times, serif;
+    
+
+}
+.box{
+    background-color: #f9f9f9;
+    /* height: 240px; */
+}
+.col-3 a{
+    text-decoration: none;
+    color:#4a4a4a;
+    
+}
+.col-3 input{
+    height: 40px;
+    width: 250px;
+}
+.col-3 button{
+    height: 50px;
+    width: 100px;
+    background-color: black;
+    color: #f9f9f9;
+}
+.footer{
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    /* display: flex; */
+    /* justify-content: center; */
+    text-align: center;
+}
+.footer p{
+color: #f9f9f9;
+    margin-left: 650px;
+    margin-top: 20px;
+}
+.footer a{
+    margin-top: 20px;
+    
+    text-decoration: none;
+    color:#d00404;
+}
+.footer a:hover{
+    color: darkred;
+    transition: 1s;
+}
+.em{
+    color: white;
+    margin-top: 20px;
+    font-weight: lighter;
+    
+}
